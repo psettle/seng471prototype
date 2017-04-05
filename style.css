@@ -54,6 +54,26 @@
   box-sizing: border-box;
   font-size: 14px;
 }
+
+
+.form .button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  width: 96%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  display: block;
+  text-decoration: none;
+  margin: 5px;
+}
+
 .form a {
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
